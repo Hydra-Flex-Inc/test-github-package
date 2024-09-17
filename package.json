@@ -1,6 +1,6 @@
 {
-  "name": "@justuswitmer/test-github-package",
-  "version": "1.0.2",
+  "name": "@Hydra-Flex-Inc/test-github-package",
+  "version": "1.0.3",
   "description": "My first github package",
   "main": "index.js",
   "publishConfig": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hydra-Flex-Inc/test-github-package.git"
   },
   "author": "",
   "license": "ISC"
